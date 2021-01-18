@@ -17,3 +17,8 @@ Objective C - static and dynamic type combination
 Inheritance
 -ObjC has single inheritance (classes can only inherit from one other class)
 -Both Swift and ObjC achieve something akin to multiple inheritance through the widespread use of protocols
+
+Weak references
+-use for 
+    1. delegates
+    2. subviews of the main view
